@@ -1,0 +1,2 @@
+##Para ignorar los binarios que genera eclipse
+bin/*
